@@ -3,8 +3,7 @@
 This project uses the following packages: 
 
 Utility 
-import warnings
-warnings.filterwarnings('ignore')
+warnings
 Requests
 StringIO
 
