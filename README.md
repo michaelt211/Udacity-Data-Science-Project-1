@@ -39,7 +39,7 @@ survey_results_schema.csv
 
 The Anaconda distribution and Jupyter notebook was used to do the analysis. 
 
-Acknoledgements 
+Acknowledgements
 
 
 https://stackoverflow.com/
